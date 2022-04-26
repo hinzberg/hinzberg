@@ -16,4 +16,10 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/holger-hinzberg-757252
 
 🇬🇧I speak English  🇩🇪Ich spreche Deutsch
 
-## Let's write some code and build something 💪
+# What I am working on
+
+## Random Person Generator
+
+I have to admit, when I started this project, my knowledge of the MVVM design pattern in WPF was a bit rusty. For too long I had been occupied with other topics. A simple layout and styles, yes that should still work. But what about a DataTemplate? Or a HierarchicalDataTemplate? I should do that again, otherwise I'll unlearn it. A small program should help me to find the connection again and at the same time create a basis to try new things. For a long time I thought about what kind of data my program could display only to end up loading again with personal data.
+
+![alt text](https://github.com/hinzberg/RandomPersonGenerator/blob/master/person_generator_product.jpg "Random Person Generator")
