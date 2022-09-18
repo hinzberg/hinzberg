@@ -25,3 +25,11 @@ I have to admit, when I started this project, my knowledge of the MVVM design pa
 [Tell me more](https://github.com/hinzberg/RandomPersonGenerator)
 
 ![alt text](https://github.com/hinzberg/RandomPersonGenerator/blob/master/person_generator_product.jpg "Random Person Generator")
+
+## SwiftUI Feature Demo
+
+SwiftUI evolves quickly. Every year there are new functions that need to be learned and tried out. I have created this project to do just that. It is my playground.  It is also my reference to see how things work in action. 
+
+[Tell me more](https://github.com/hinzberg/SwiftUI-FeaturesDemo)
+
+![alt text](https://github.com/hinzberg/SwiftUI-FeaturesDemo/blob/main/SwiftUI-FeaturesDemo/swiftui_feature_demo.jpg "SwiftUI Feature Demo")
